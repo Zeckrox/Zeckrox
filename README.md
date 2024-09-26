@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeckrox&label=Profile%20views&color=0e75b6&style=flat" alt="zeckrox" /> </p>
 
-- 🔭 I’m currently working on [sekiu website](sekiuproject.com)
-
 - 🌱 I’m currently learning **Next.js, Django, Nginx & Java.**
 
 - 👯 I’m looking to collaborate on **Interesting projects**
@@ -14,8 +12,6 @@
 - 💬 Ask me about **React, JavaScript & Python**
 
 - 📫 How to reach me **tefanoboschetti@gmail.com**
-
-- 📄 Know about my experiences [https://flowcv.com/resume/4hbmqkls5s](https://flowcv.com/resume/4hbmqkls5s)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
